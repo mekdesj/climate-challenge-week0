@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 ### Clone the repo
-git clone https://github.com/YOUR_USERNAME/climate-challenge-week0.git
+git clone https://github.com/mekdesj/climate-challenge-week0.git
 cd climate-challenge-week0
 
 ### Create virtual environment
