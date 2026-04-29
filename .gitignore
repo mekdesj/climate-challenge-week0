@@ -1,0 +1,45 @@
+# Python environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (VERY IMPORTANT for your assignment)
+data/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/# Python environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (VERY IMPORTANT for your assignment)
+data/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
